@@ -16,7 +16,7 @@ https://dortania.github.io/OpenCore-Install-Guide/
 | Модель компьютера      | Irbis NB125 (12.5" FHD/IPS)                       |  
 | Процессор             | Intel Celeron N3350 @ 1.10GHz (Apollo Lake)       |  
 | Ядер / потоков          | 2 ядра / 2 потока                                 |  
-| Память RAM             | 3 GB DDR3 (две планки по 1 ГБ, 1600 MHz)         |  
+| Память RAM             | 3 GB DDR3 (две планки по 1.5 ГБ, 1600 MHz)         |  
 | Хранение данных        | SSD 32 GB                                         |  
 | Видеокарта (iGPU)      | Intel UHD Graphics 500 (Apollo Lake)              |  
 | Сетевая карта Ethernet | Realtek RTL8168H                                   |  
