@@ -33,16 +33,14 @@ https://dortania.github.io/OpenCore-Install-Guide/
 - Выбрать режим загрузки UEFI без CSM (Boot)  
 
 ## Что работает  
-  
-- Управление питанием процессора (P-States, C-States)  
+   
 - Корректная перезагрузка, переход в спящий режим и выключение    
 - Все USB порты корректно распознаются  
-- Функциональные клавиши (яркость, громкость и др.)  
-- Вывод видео и аудио через HDMI  
-- iMessage и FaceTime работают  
+- Функциональные клавиши (яркость, громкость и др.)   
 
 ## Что не работает  
 
+- Управление питанием процессора (P-States, C-States)  
 - AirDrop пока не поддерживается  
 - QE/CI графика Intel UHD Graphics (аппаратное ускорение iGPU)
 - Аудио Realtek ALC233
@@ -52,7 +50,8 @@ https://dortania.github.io/OpenCore-Install-Guide/
 - Аудио Realtek ALC233 
 - Bluetooth  
 - Поддержка Bluetooth-гарнитуры и микрофона  
-
+- Вывод видео и аудио через HDMI 
+- iMessage и FaceTime работают  
 ---  
 
 
