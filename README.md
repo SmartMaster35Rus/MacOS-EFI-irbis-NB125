@@ -54,5 +54,5 @@ https://dortania.github.io/OpenCore-Install-Guide/
 - iMessage и FaceTime работают  
 ---  
 
-
-**Лицензия:** MIT
+Этот проект распространяется по лицензии [MIT](LICENSE).
+Copyright (c) 2025 SmartMaster35rus
